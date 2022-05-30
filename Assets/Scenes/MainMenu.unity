@@ -1915,7 +1915,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Note: The birds that you have killded resurrect whenever your score reaches
+  m_Text: 'Note: The birds that you have killed resurrect whenever your score reaches
     a power of 3 hence "Death is only the beginning"'
 --- !u!222 &1409167349
 CanvasRenderer:
